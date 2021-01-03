@@ -1,10 +1,9 @@
-<!--<a href="https://github.com/zigou23?tab=repositories">
+<a href="https://github.com/zigou23?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=zigou23&show_icons=true&hide_border=true" />
-</a>-->
-[![zigou23](https://github-readme-stats.vercel.app/api?username=zigou23)](https://github.com/zigou23)
+</a>
+<!--不可并行-->
+<!--[![zigou23](https://github-readme-stats.vercel.app/api?username=zigou23)](https://github.com/zigou23)-->
 
-<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
--->
 ### Hi there 👋
 🤔 I’m looking for help with ...
 
@@ -26,8 +25,6 @@ Here are some ideas to get you started:
 |･ω･｀)
 ＯｗＯ
 ```
-
-
 
 <!--
 🌱 I’m currently learning:
