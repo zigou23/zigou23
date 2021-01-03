@@ -1,6 +1,6 @@
 <!--theme from https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md-->
 <a href="https://github.com/zigou23?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zigou23&show_icons=true&hide_border=true&theme=vue-dark" />
+  <img align="right" src="https://zigou23.vercel.app/api?username=zigou23&show_icons=true&hide_border=true&theme=vue-dark" />
 </a>
 <!--不可并行-->
 <!--[![zigou23](https://github-readme-stats.vercel.app/api?username=zigou23)](https://github.com/zigou23)-->
