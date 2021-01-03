@@ -1,3 +1,7 @@
+<a href="https://github.com/zigou23?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zigou23&show_icons=true&hide_border=true" />
+</a>
+
 ### Hi there 👋
 🤔 I’m looking for help with ...
 
