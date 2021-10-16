@@ -1,12 +1,13 @@
-<svg width="1024" height="512" xmlns="http://www.w3.org/2000/svg">
- <!--512512-->
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+ <!--512512x256256-->
  <title>ZigouLogo-DenoLogoChange</title>
 
  <mask id="a">
-  <circle id="svg_1" r="230" cy="256" cx="256" fill="white"/>
+  <circle id="svg_1" r="230" cy="230" cx="256" fill="white"/>
+   <!--512512x256256-->
  </mask>
  <g>
-  <title>zigou23</title>
+  <title>zigou23Logo</title>
   <circle id="svg_2" r="256" cy="256" cx="256"/>
   <path transform="rotate(-46 256.056 259.193)" id="svg_3" d="m74,339l17,-63m19.964,-94.905l17,-63m-88.034,122.905l17,-63m72.034,227l17,-63m17.408,164.829l17,-63m52.628,32.5l17,-63m-40.743,-300.742l17,-63m103.138,143.417l17,-63m108.787,194.689l17,-63m-60.058,-20.693l17,-63m-127.097,-103.442l17,-63m84.597,94.5l17,-63" stroke-linecap="round" stroke-width="25" stroke="white" mask="url(#a)"/>
   <g stroke="null">
