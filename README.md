@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 c(　╹^╹)
 ```
 <!-- 访问量统计 -->
-![](https://komarev.com/ghpvc/?username=zigou23&color=5DADE2)
+<!-- ![](https://komarev.com/ghpvc/?username=zigou23&color=5DADE2) -->
+<a href="../../../antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=zigou23&color=5DADE2">
+</a>
 
 <!--
 🌱 I’m currently learning:
