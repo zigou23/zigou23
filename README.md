@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 　/)　/)
 c(　╹^╹)
 ```
-
+[](https://komarev.com/ghpvc/?username=zigou23&color=lightgrey)
 <!--
 🌱 I’m currently learning:
 
