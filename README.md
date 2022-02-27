@@ -30,7 +30,7 @@ c(　╹^╹)
 ```
 <!-- 访问量统计 
 ![](https://komarev.com/ghpvc/?username=zigou23&color=5DADE2) -->
-![](https://hit.yhype.me/github/profile?user_id=40587032&color=5DADE2&style=flat)
+![](https://hit.yhype.me/github/profile?user_id=40587032)
 <!--
 🌱 I’m currently learning:
 
