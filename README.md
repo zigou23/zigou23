@@ -30,7 +30,7 @@ c(　╹^╹)
 ```
 <!-- 访问量统计 -->
 <!-- ![](https://komarev.com/ghpvc/?username=zigou23&color=5DADE2) -->
-<a href="../../../antonkomarev/github-profile-views-counter">
+<a href="../../../../antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=zigou23&color=5DADE2">
 </a>
 
